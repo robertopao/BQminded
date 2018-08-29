@@ -1,6 +1,6 @@
 Capitain:
 Cook:
-Pilot:
+Pilot: ok
 Cleaner:
 Guestes:
 
