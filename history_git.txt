@@ -1,0 +1,57 @@
+    1  git status
+    2  nano mars.txt
+    3  git status
+    4  git config
+    5  git config core.editor
+    6  ls
+    7  git status
+    8  nano mars.txt
+    9  git status
+   10  git add mars.txt
+   11  git diff -- mars
+   12  git diff -- mars.txt
+   13  git diff --mars.txt
+   14  git commit --help
+   15  git diff -- jupiter.txt
+   16  nano jupiter.txt
+   17  git diff -- jupiter.txt
+   18  git status
+   19  git add .*txt
+   20  git add *.txt
+   21  nano mars.txt
+   22  git status
+   23  git diff mars.txt
+   24  git status
+   25  git checkout -- mars.txt
+   26  git status
+   27  git diff mars.txt
+   28  git commit -m "error solved"
+   29  git status
+   30  git status
+   31  nano pluton.txt
+   32  git status
+   33  git add pluto.txt
+   34  git commit -m "added pluto"
+   35  git log --oneline --name-only
+   36  git status
+   37  git checkout 6999a81 
+   38  ls
+   39  git log --oneline
+   40  git checkout 224ecd3
+   41  git log --oneline
+   42  git checkout master
+   43  git status
+   44  git log --oneline
+   45  nano capitain_diary.txt
+   46  git status
+   47  nano .gitignore
+   48  git status
+   49  nano .gitignore
+   50  git status
+   51  mkdir data
+   52  touch data/datafile.txt
+   53  nano .gitignore
+   54  git add .gitignore
+   55  git status
+   56  git commit -m "gitignore added"
+   57   history > history_git.txt
