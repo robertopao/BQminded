@@ -55,3 +55,51 @@
    55  git status
    56  git commit -m "gitignore added"
    57   history > history_git.txt
+   58  git remote -v
+   59  git remote add origin https://github.com/robertopao/BQminded
+   60  git remote -v
+   61  git push -u origin master
+   62  nano spaceship.txt
+   63  git status
+   64  git add
+   65  git add *.txt
+   66  git commit -m "new file history"
+   67  git push -u origin master
+   68  ls 
+   69  git pull
+   70  head README.md 
+   71  head LICENSE 
+   72  ls
+   73  head README.md 
+   74  nano crew.txt
+   75  git status
+   76  git add crew.txt
+   77  git commit -m "crew added"
+   78  git push 
+   79  git branch
+   80  git branch dev
+   81  git checkout dev
+   82  git branch
+   83  nano mercury.txt
+   84  nano sun.txt
+   85  git status
+   86  git add *.txt
+   87  git commit -m "added sun and mercury"
+   88  git push
+   89  git push --set-upstream origin dev
+   90  git chekout master
+   91  git checkout master
+   92  git checkout dev
+   93  cat crew.txt
+   94  git checkout master
+   95  cat crew.txt
+   96  git check out master
+   97  git checkout master
+   98  git branch updateCrew
+   99  git checkout updateCrew
+  100  nano crew.txt
+  101  git add *.txt
+  102  git commit -m "new"
+  103  git push --set-upstream origin dev
+  104  git push --set-upstream origin updateCrew
+  105   history > history_git.txt
